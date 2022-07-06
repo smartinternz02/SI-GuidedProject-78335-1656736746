@@ -253,6 +253,8 @@ References:
 https://github.com/Anshuman151/ECG-Image-Based-Heartbeat-Classification-for-Arrhythmia-Detection-Using-IBM-Watson-Studio/blob/main/README.md
 https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
 https://www.mathworks.com/help/deeplearning/ref/nnet.cnn.layer.convolution2dlayer.html;jsessionid=0a7e3bc26fabda07a5032030294b
+
+[Youtube Link] for reference(https://www.youtube.com/watch?v=EQG7rN2R-tc)
     
                                                  THE END
 
